@@ -1,0 +1,74 @@
+export default  function studentData(){
+    return[
+        {
+        id:1,
+        firstName:"Emmalynn",
+        lastName:"Huckerbe",
+        email:"ehuckerbe0@newyorker.com",
+        gender:"Female",
+    },
+{
+    id:2,
+    firstName:"Kalie",
+    lastName:"Carde",
+    email:"kcarde1@whitehouse.gov",
+    gender:"Female",
+},
+{
+    id:3,
+    firstName:"Celisse",
+    lastName:"Gludor",
+    email:"cgludor2@discovery.com",
+    gender:"Female",
+},
+{
+    id:4,
+    firstName:"Sigfrid",
+    lastName:"Paulucci",
+    emai:"spaulucci3@zdnet.com",
+    gender:"Male",
+},
+{
+    id:5,
+    firstName:"Jerome",
+    lastName:"Jedrzejczyk",
+    email:"jjedrzejczyk4@about.com",
+    gender:"Male",
+},
+{
+    id:6,
+    firstName:"Clarita",
+    lastName:"Drakeford",
+    email:"cdrakeford5@accuweather.com",
+    gender:"Female"},
+
+    {   
+        id:7,
+    firstName:"Win",
+    lastName:"McCuthais",
+    email:"wmccuthais6@ft.com",
+    gender:"Male",
+},
+{
+    id:8,
+    firstName:"Stephine",
+    lastName:"Dossantos",
+    email:"sdossantos7@google.es",
+    gender:"Female",
+},
+{
+    id:9,
+    firstName:"Borden",
+    lastName:"Bertomieu",
+    email:"bbertomieu8@hexun.com",
+    gender:"Male",
+},
+{
+    id:10,
+    firstName:"Cassie",
+    lastName:"Rearden",
+    email:"crearden9@themeforest.net",
+    gender:"Female",
+}
+];
+}

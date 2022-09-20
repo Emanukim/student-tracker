@@ -1,19 +1,19 @@
 import './App.css';
 import Container  from './Container';
-import StudentTable from './StudentTable';
+import NavBar from './NavBar';
+// import StudentTable from './StudentTable';
 
 function App() {
   return (
     <Container>
-      <StudentTable/>
+      <NavBar />
+      {/* <StudentTable /> */}
     </Container>
   
   );
 }
 
 export default App;
-
-
 
 
 

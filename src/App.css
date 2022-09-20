@@ -1,4 +1,68 @@
-.App {
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.nav-prime{
+  width: 100%;
+  background-color: rgb(7, 18, 68);
+}
+
+.nav-prime, .nav-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.nav-content{
+  width: 30%;
+}
+
+.nav-menu{
+  color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +99,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
